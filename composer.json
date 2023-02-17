@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "php": "^5.5.0 || ^8.1.*",
+    "php": "^8.1.*",
     "layershifter/tld-database": "^1.0",
     "layershifter/tld-support": "^1.1",
     "symfony/polyfill-intl-idn": "^1.10"
