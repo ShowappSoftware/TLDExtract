@@ -20,8 +20,8 @@
   ],
   "require": {
     "php": "8.*",
-    "showapp/tld-database": "^1.0",
-    "showapp/tld-support": "^1.1",
+    "showapp/tld-database": "dev-master",
+    "showapp/tld-support": "dev-master",
     "symfony/polyfill-intl-idn": "^1.10"
   },
   "require-dev": {
